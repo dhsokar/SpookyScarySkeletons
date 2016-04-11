@@ -4,6 +4,7 @@ import javax.swing.*;
 import java.awt.image.BufferedImage;
 import java.io.*;
 import javax.imageio.*;
+//VCSTEST.
 
 
 public class SpookyScarySkeletons extends JPanel {
