@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SpookyScarySkeletons:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpookyScarySkeletons_jar</output-path>
+    <root id="archive" name="SpookyScarySkeletons.jar">
+      <element id="module-output" name="SpookyScarySkeletons" />
+    </root>
+  </artifact>
+</component>
